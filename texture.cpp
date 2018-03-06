@@ -6,7 +6,7 @@ Ankit Dhall and Yash Chandak
 #include <opencv2/core/core.hpp>
 #include <opencv2/highgui/highgui.hpp>
 #include<iostream>
-#include "opencv2/imgproc/imgproc.hpp"
+#include <opencv2/imgproc/imgproc.hpp>
 #include<math.h>
 #include <queue>
 #include <time.h>
